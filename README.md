@@ -1,0 +1,2 @@
+# Assistentia-Mini
+Mini Project
